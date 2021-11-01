@@ -8,6 +8,7 @@ redo.addEventListener("click" , redoLine);
 
 function undoLine(){
     // 1. pop a line from db
+    
     let redoLine = db.pop();
     redoDB.push(redoLine);
 
