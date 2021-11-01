@@ -5,6 +5,7 @@ stickyDiv.addEventListener('click', function () {
   appendSticky();
 });
 
+
 function appendSticky(elem) {
   // <div class="sticky">
   //   <div class="sticky-header">
