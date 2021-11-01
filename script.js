@@ -22,6 +22,7 @@ let line=[];
 
 let isMouseDown = false;
 
+
 canvas.addEventListener("mousedown" , function(e){
     if(redoDB.length){
         redoDB = [];
