@@ -1,3 +1,4 @@
+//to insert images to white board
 let photo = document.querySelector("#photo");
 let download = document.querySelector("#download");
 let photoInput = document.querySelector("#photo-upload");
